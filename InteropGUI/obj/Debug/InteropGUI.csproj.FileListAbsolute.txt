@@ -1,0 +1,46 @@
+c:\users\james bell\documents\visual studio 2015\Projects\InteropGUI\InteropGUI\bin\Debug\InteropGUI.exe.config
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\bin\Debug\InteropGUI.exe
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\bin\Debug\InteropGUI.pdb
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\InteropGUI.csprojResolveAssemblyReference.cache
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\MainWindow.g.cs
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\App.g.cs
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\InteropGUI_MarkupCompile.cache
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\InteropGUI_MarkupCompile.lref
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\MainWindow.baml
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\InteropGUI.g.resources
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\InteropGUI.Properties.Resources.resources
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\InteropGUI.csproj.GenerateResource.Cache
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\InteropGUI.exe
+C:\Users\James Bell\Documents\Visual Studio 2015\Projects\InteropGUI\InteropGUI\obj\Debug\InteropGUI.pdb
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\bin\Debug\InteropGUI.exe.config
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\InteropGUI.exe
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\InteropGUI.pdb
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\bin\Debug\InteropGUI.exe
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\bin\Debug\InteropGUI.pdb
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\InteropGUI.csprojResolveAssemblyReference.cache
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\MainWindow.g.cs
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\App.g.cs
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\InteropGUI_MarkupCompile.cache
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\InteropGUI_MarkupCompile.lref
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\MainWindow.baml
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\InteropGUI.g.resources
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\InteropGUI.Properties.Resources.resources
+C:\Users\James Bell\OneDrive\UAV Team\InteropGUI\InteropGUI\InteropGUI\obj\Debug\InteropGUI.csproj.GenerateResource.Cache
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\bin\Debug\InteropGUI.exe.config
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\InteropGUI.exe
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\InteropGUI.pdb
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\bin\Debug\InteropGUI.exe
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\bin\Debug\InteropGUI.pdb
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\InteropGUI.csprojResolveAssemblyReference.cache
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\MainWindow.g.cs
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\App.g.cs
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\InteropGUI_MarkupCompile.cache
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\InteropGUI_MarkupCompile.lref
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\MainWindow.baml
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\InteropGUI.g.resources
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\InteropGUI.Properties.Resources.resources
+C:\Users\James Bell\OneDrive\UAV Team\UAV\InteropGUI\InteropGUI\obj\Debug\InteropGUI.csproj.GenerateResource.Cache
